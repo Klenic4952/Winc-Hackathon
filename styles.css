@@ -1,0 +1,142 @@
+body {
+    margin: 0;
+    background-color: #eae0d6 ;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6em;
+}
+
+body a {
+    color: #426726;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    color: #9b3e5f;
+}
+
+.figure {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+    border-radius: 300px;
+}
+
+.container {
+    width: 100%;
+}
+
+.header {
+    background-color:#fffbfb;
+    margin: 20px;
+    padding-right: 10px;
+    padding-left: 10px;
+    border-radius: 300px;
+}
+
+.header h1 {
+    font-family: "Poppins", sans-serif;
+    font-size: 30px;
+    color: #9b3e5f;
+    text-align: center;
+    padding-top: 20px;  
+}
+
+.subtitle {
+    font-family:Arial, Helvetica, sans-serif;
+    color: #37342f;
+    font-size: 18px;
+    font-weight:lighter;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background-color: #426726;
+}
+
+nav li a {
+    display: block;
+    color: white;
+    font-family: "Poppins", sans-serif;
+    font-weight: normal;
+    padding: 5px;
+}
+
+nav li:hover {
+    background-color:#eae0d6;
+}
+
+.main {
+    width: 85%;
+    margin: auto;
+    padding-top: 40px;
+    padding-bottom: 50px;
+    margin-bottom: 30px;
+}
+
+.main q {
+    color: #426726;
+    font-family: "Poppins", sans-serif;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+h2 {
+    font-family: "Poppins", sans-serif;
+    color:#37342f        
+    }
+
+h3 {
+    font-family: "Poppins", sans-serif;
+    color:#37342f  
+    }
+    
+h4 {
+    font-family: "Poppins", sans-serif;
+    color:#37342f  
+    }
+
+.box-1 p {
+    width: 220px;
+    height: 150px;
+    background-color: #d9d9d9;
+    color:#37342f;
+    text-align: center;
+    font-size: 15px;
+    padding: 10px;
+    padding-top: 15px;
+}
+
+.box-1 img {
+    margin: 15px
+}
+
+.boarder {
+    border-style: solid;
+    border-color: white;
+    border-radius: 10%;
+}
+
+.button {
+    background-color:#d9d9d9;
+    color: black;
+    font-family: "Poppins", sans-serif;
+    padding: 20px;
+    font-size: 15px;
+    margin-top: 20px;
+    margin-bottom: 25px;
+    cursor: pointer;
+}
+
+.footer {
+    background-color: #9b3e5f;
+    color: white;
+    font-size: 13px;
+    padding: 10px;
+}
